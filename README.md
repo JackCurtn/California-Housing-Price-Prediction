@@ -1,5 +1,5 @@
 # California-Housing-Price-Prediction
-Assignment as part of a Machine Learning module for Business Analytics at the University of Limerick
+Project as part of a Machine Learning module for Business Analytics at the University of Limerick
 
 This project involved creating a synthetic dataset and notably looking at a dataset containing prices of Californian Houses.
 
